@@ -1,0 +1,16 @@
+Opening a terminal
+Type git --version to ensure Git is installed. Check git-scm.com to download the latest version.
+Type git config --global user.name "USER NAME", replacing USERNAME with your first
+and last name.
+Type git config --global user.email "EMAIL", replacing EMAIL with the email account
+associated with your GitHub account.
+Depending on your operating system, set the core.autocrlf.
+            Windows users: Type git config --global core.autocrlf true.
+Type git config --list to see your current configurations.
+Clone the Repository Using the Command Line
+1. Navigate to the Code tab of the repository on GitHub.com.
+2. Click Clone or download.
+3. Copy the Clone URL provided.
+4. Open your command line/terminal application and cd into the directory where you would like to
+copy the repository. This can be anywhere in your local file system.
+5. Type git clone URL. Be sure to replace URL with the Clone URL you copied in the previous step.
