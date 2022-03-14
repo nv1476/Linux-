@@ -1,2 +1,2 @@
-# Linux-
+# Linux
 Linux Command
